@@ -1,5 +1,8 @@
-##  Web developer to be
-![001](./001.png) ![003](./003.png)
+#  Web developer to be
+## I hope my growing process will be like
+![001](./001.png) ![003](./003.png) ![004](./004.png)
+
+
 <!--
 **chihhsiangsu/chihhsiangsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
