@@ -1,7 +1,11 @@
-#  Web developer to be
-## I hope my growing process will be like
+# Susu, a web developer to be
+## I hope my growing process in web development will be like
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
 
+### My Goal 
+- Wake up on time
+- Go to sleep earlier
+- Repeat them every day
 
 <!--
 **chihhsiangsu/chihhsiangsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
