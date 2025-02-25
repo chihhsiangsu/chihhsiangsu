@@ -1,5 +1,5 @@
 ##  Web developer to be
-![001](./001.png)
+![001](./001.png) ![002](./002.png)
 <!--
 **chihhsiangsu/chihhsiangsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
