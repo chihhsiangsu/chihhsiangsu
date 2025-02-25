@@ -3,6 +3,7 @@
 ## Previous experiences
 - SEO
 - Digital Marketing
+Connect me on [Linkedin](https://www.linkedin.com/in/chih-hsiang-su-771036191/)
 
 ## I hope my growing process in web development will be like
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
