@@ -5,7 +5,7 @@
 ### My Goal 
 - Wake up on time
 - Go to sleep earlier
-- Repeat them every day
+- Repeat them ***every day***
 
 <!--
 **chihhsiangsu/chihhsiangsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
