@@ -1,8 +1,9 @@
 # Susu, a web developer to be
 
 ## Previous experiences
-- SEO
+- Search Engine Optimization
 - Digital Marketing
+- Event Management
 
 ### Connect me on [Linkedin](https://www.linkedin.com/in/chih-hsiang-su-771036191/)
 
