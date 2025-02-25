@@ -5,6 +5,9 @@
 - Digital Marketing
 - Event Management
 
+## Skills
+
+
 ### Connect me on [Linkedin](https://www.linkedin.com/in/chih-hsiang-su-771036191/)
 
 ## I hope my growing process in web development will be like
