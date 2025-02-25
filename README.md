@@ -1,4 +1,9 @@
 # Susu, a web developer to be
+
+## Previous experiences
+- SEO
+- Digital Marketing
+
 ## I hope my growing process in web development will be like
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
 
