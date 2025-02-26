@@ -11,7 +11,7 @@
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
 
 ### My Goal 
-- {\color{red}Wake \space \ up \space \ on \space \ time}
+- $${\color{red}Wake \space \ up \space \ on \space \ time}$$
 - Go to sleep earlier
 - Repeat them ***every day***
 
