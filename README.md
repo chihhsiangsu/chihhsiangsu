@@ -11,7 +11,7 @@
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
 
 ### My Goal 
-- Wake up on time
+- $${\color{red}Wake up on time}$$
 - Go to sleep earlier
 - Repeat them ***every day***
 
