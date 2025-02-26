@@ -1,7 +1,7 @@
 # Susu, a web developer to be
 
 ## Previous experiences
-- <code style="color : name_color">Search Engine Optimization</code>
+- <code style="color : darkorange">Search Engine Optimization</code>
 - Digital Marketing
 - Event Management
 
