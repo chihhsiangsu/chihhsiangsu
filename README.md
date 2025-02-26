@@ -12,7 +12,7 @@
 
 ### My Goal 
 - $${\color{red}Wake \space \ up \space \ on \space \ time}$$
-- Go to sleep earlier
+- $${\color{blue}Go \space \ to \space \ sleep \space \ earlier}$$
 - Repeat them ***every day***
 
 <!--
