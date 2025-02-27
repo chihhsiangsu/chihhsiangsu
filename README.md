@@ -2,12 +2,12 @@
 
 ## Previous experiences
 - <code style="color : darkorange">Search Engine Optimization</code>
-- Digital Marketing
-- Event Management
+- <code style="color : darkorange">Digital marketing</code>
+- <code style="color : darkorange">Event management</code>
 
 ### Connect me on [Linkedin](https://www.linkedin.com/in/chih-hsiang-su-771036191/)
 
-## I hope my growing process in web development will be like
+#### I hope my growing process in web development will be like
 ![001](./001.png) ![003](./003.png) ![004](./004.png)
 
 ### My Goal 
