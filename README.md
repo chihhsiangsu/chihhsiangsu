@@ -1,4 +1,6 @@
-# Susu, a web developer to be
+# Su, a web developer to be
+
+Html|CSS|JavaScript
 
 ## Previous experiences
 - <code style="color : darkorange">Search Engine Optimization</code>
